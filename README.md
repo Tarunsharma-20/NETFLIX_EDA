@@ -1,7 +1,7 @@
 # NETFLIX-EDA
 [Click to see the Notebook](https://nbviewer.org/github/Tarunsharma-20/NETFLIX_EDA/blob/main/Netflix.ipynb)
 
-![Netflix](https://github.com/user-attachments/assets/746c4ea5-439b-4396-9b3c-0530df3a7ecf)
+![Netflix](https://github.com/user-attachments/assets/885a30d3-1bf7-4ca8-9130-0ac2a36a2af6)
 
 ## Outline of Approach
 - Data Loading
@@ -67,6 +67,14 @@
 - In India, Netflix produces very few shows of PG,PG-13,NR,R rated shows.
 - In United Kingdom, Netflix produces very few shows of PG,TV-Y7,NR rated shows.
 - In Japan, Netflix produces very few shows of TV-G, TV-Y, and PG-13 ratings, and does not produce R and NR rated shows.
+
+
+**Netflix Content Releases Over Month**
+- More Releases at Year-End: Netflix usually releases more shows and movies towards the end of the year, especially in October, November, and December.
+- Mid-Year Boost: There’s also a spike in new content around June and July.
+- Steady Growth: Overall, the number of new releases has been increasing every month over the years, particularly after 2015.
+- Lower Early-Year Releases: The beginning of the year, especially January and February, tends to have fewer new releases compared to later months.
+- December 2018 Peak: The highest number of releases in a single month was in December 2018.
 
 
 **Distribution of Content Types Over Time**
