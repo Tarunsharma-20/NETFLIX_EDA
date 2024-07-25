@@ -1,7 +1,7 @@
-# NETFLIX-
+# NETFLIX-EDA
 [Click to see the Notebook](https://nbviewer.org/github/Tarunsharma-20/NETFLIX_EDA/blob/main/Netflix.ipynb)
 
-![Netflix](https://github.com/user-attachments/assets/d1940da4-48a9-4413-be70-d0969ab1abd5)
+![Netflix](https://github.com/user-attachments/assets/746c4ea5-439b-4396-9b3c-0530df3a7ecf)
 
 ## Outline of Approach
 - Data Loading
