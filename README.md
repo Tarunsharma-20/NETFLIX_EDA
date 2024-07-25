@@ -16,7 +16,7 @@
 - Plotly
 - WordCloud
 
-## Insights
+## INSIGHTS
 
 **Distribution of Show Types**
 1. Movie(69.6%)
