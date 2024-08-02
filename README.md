@@ -93,3 +93,8 @@
 
 
 **Note: For understanding Visually checkout the above Visualization**
+
+## Contributors
+- [@Tarunsharma-20](https://github.com/Tarunsharma-20)
+
+Explore the exciting world of Netflix data analytics!
